@@ -13,9 +13,7 @@ Projeto de site institucional para barbearia, desenvolvido com HTML, CSS e JavaS
 - CSS
 - JavaScript
 
-## 📸 Preview
-(coloque print aqui)
 
 ## 🔗 Acesse o projeto
-(link do GitHub Pages aqui)
+(https://willianjsilva-dev.github.io/Site-barbearia/)
 
